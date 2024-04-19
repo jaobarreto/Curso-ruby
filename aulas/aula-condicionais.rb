@@ -7,4 +7,3 @@ elsif nome == "Pedro"
 else
     puts "Que nome estranho."
 end
-
